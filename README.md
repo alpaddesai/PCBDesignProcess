@@ -8,4 +8,4 @@ Please download the executable in https://github.com/alpaddesai/PCBDesignProcess
 
 Images are custom. Copyright protection is in process.
 
-![image](PCB.png)
+![image](PCB1.png)
