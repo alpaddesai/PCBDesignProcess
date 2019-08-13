@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\bin\Release\PCBDesignProcess.exe.config
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\bin\Release\PCBDesignProcess.exe
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\bin\Release\PCBDesignProcess.pdb
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess_MarkupCompile.cache
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess_MarkupCompile.lref
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess.g.resources
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess.Properties.Resources.resources
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess.exe
+C:\Users\ADG\source\repos\PCBDesignProcess\PCBDesignProcess\obj\Release\PCBDesignProcess.pdb
