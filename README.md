@@ -10,4 +10,8 @@ Images are custom.
 
 ![image](PCB1.png)
 
+![image](AllegroEditorImage.png)
+
+![image](BachelorofEngineering_EE.png)
+
 ![image](NEU_MS.png)
