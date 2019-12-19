@@ -14,4 +14,3 @@ Images are custom.
 
 ![image](BachelorofEngineering_EE.png)
 
-![image](NEU_MS.png)
