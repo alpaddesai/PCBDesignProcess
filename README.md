@@ -15,4 +15,4 @@ Images are custom.
 ## Top 10 all four years
 ![image](BachelorofEngineering_EE.png)
 
-![image](NetVisionC_Cplusplus.png)
+![image](NetVisionC_Cplusplus.JPG)
