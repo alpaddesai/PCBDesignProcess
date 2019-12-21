@@ -10,9 +10,9 @@ Images are custom.
 
 ![image](PCB1.png)
 
-![image](AllegroEditorImage.png)
-
 ![image](EmbeddedHardwareImage.png)
+
+![image](AllegroEditorImage.png)
 
 ## Top 10 all four years
 ![image](BachelorofEngineering_EE.png)
