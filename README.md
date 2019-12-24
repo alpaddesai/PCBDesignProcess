@@ -23,6 +23,8 @@ Images are custom.
 
 ![image](AllegroHighSpeedConstraintsCertificate.jpg)
 
+![image](image1.jpg)
+
 ![image](AllegroEditorCertificate.jpg)
 
 ![image](CplusplusDVCertificate.jpg)
