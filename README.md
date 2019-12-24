@@ -20,3 +20,5 @@ Images are custom.
 ![image](NetVisionC_Cplusplus.JPG)
 
 ![image](AllegroCertificate.jpg)
+
+![image](AllegroHighSpeedConstraintsCertificate.jpg)
