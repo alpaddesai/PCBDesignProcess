@@ -18,3 +18,5 @@ Images are custom.
 ![image](BachelorofEngineering_EE.png)
 
 ![image](NetVisionC_Cplusplus.JPG)
+
+![image](AllegroCertificate.jpg)
