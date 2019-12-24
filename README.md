@@ -22,3 +22,5 @@ Images are custom.
 ![image](AllegroCertificate.jpg)
 
 ![image](AllegroHighSpeedConstraintsCertificate.jpg)
+
+![image](AllegroEditorCertificate.jpg)
