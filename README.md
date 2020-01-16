@@ -17,7 +17,7 @@ Images are custom.
 ## Top 10 all four years & outstanding testscores
 #Coursework includes Linear Electronics; Integrated Electronics;Business organization and Planning, Engineering EEM, Microprocessor
 & digital electronics; Microprocessor interfacing and progamming; industrial instrumentation; Power electronic devices; Control theory; 
-#Network Analysis; Electrical Eng and Electronics; 
+Network Analysis; Electrical Eng and Electronics; 
 
 ![image](BachelorofEngineering_EE.png)
 
