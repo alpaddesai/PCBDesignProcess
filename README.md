@@ -22,6 +22,7 @@ Network Analysis; Electrical Eng and Electronics; Power systems analysis; Comput
 ### Allegro High Speed Designer
 ![image](AllegroHighSpeedConstraintManager.jpg)
 
+### Allegro Editor
 ![image](AllegroEditorCertificate.jpg)
 
 ![image](CplusplusDVCertificate.jpg)
