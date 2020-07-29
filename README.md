@@ -26,4 +26,5 @@ Network Analysis; Electrical Eng and Electronics; Power systems analysis; Comput
 ### Allegro Editor
 ![image](AllegroEditorCertificate.jpg)
 
+### Design Verification
 ![image](CplusplusDVCertificate.jpg)
