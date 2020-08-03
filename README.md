@@ -28,3 +28,6 @@ Network Analysis; Electrical Eng and Electronics; Power systems analysis; Comput
 
 ### Design Verification
 ![image](CplusplusDVCertificate.jpg)
+
+### Graduate Degree
+![image](NEU_MS.png)
