@@ -31,3 +31,4 @@ Images are custom.
 ### Graduate Degree
 ![image](NEU_MS.png)
 
+Further details reference : https://github.com/alpaddesai/ComputerArchitecture
