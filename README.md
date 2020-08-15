@@ -28,4 +28,5 @@ Images are custom.
 ### Design Verification
 ![image](CplusplusDVCertificate.jpg)
 
+Further knowledge in https://github.com/alpaddesai/PowerDistributionNetworks
 
