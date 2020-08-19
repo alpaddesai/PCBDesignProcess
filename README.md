@@ -1,4 +1,4 @@
-#  Design Process
+# Industry Standard Design Process
 
 The project provides an introduction to the PCB Design PRocess
 
