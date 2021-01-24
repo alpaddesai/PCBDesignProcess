@@ -30,3 +30,4 @@ Images are custom.
 
 Further knowledge in https://github.com/alpaddesai/PowerDistributionNetworks
 
+![image](USCopyrightCertificateofRegistration.png)
