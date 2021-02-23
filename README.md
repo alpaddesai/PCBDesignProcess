@@ -28,6 +28,9 @@ Images are custom.
 ### Design Verification
 ![image](CplusplusDVCertificate.jpg)
 
+## Interest
+![image](image1.png)
+
 Further knowledge in https://github.com/alpaddesai/PowerDistributionNetworks and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
 
 ![image](USCopyrightCertificateofRegistration.png)
