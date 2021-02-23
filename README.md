@@ -32,5 +32,3 @@ Images are custom.
 ![image](image1.png)
 
 Further knowledge in https://github.com/alpaddesai/PowerDistributionNetworks and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
-
-![image](USCopyrightCertificateofRegistration.png)
