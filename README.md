@@ -28,6 +28,9 @@ Images are custom.
 ### Design Verification
 ![image](CplusplusDVCertificate.jpg)
 
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
+
 ## Interest
 ![image](image1.png)
 
