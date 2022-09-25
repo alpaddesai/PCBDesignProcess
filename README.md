@@ -31,5 +31,6 @@ Images are custom.
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
 
 Further knowledge in https://github.com/alpaddesai/PowerDistributionNetworks and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
