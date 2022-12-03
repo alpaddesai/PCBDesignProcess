@@ -33,4 +33,4 @@ Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
-Further knowledge in https://github.com/alpaddesai/PowerDistributionNetworks and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
+Further knowledge in https://github.com/alpaddesai/PowerDistributionNetworks and https://github.com/alpaddesai/HighTechGlobalStrategy
