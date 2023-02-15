@@ -2,7 +2,7 @@
 
 The project provides an introduction to the PCB Design PRocess
 
-Confidential information is not displayed. 
+Company Confidential information is not displayed. 
 
 Please download the executable in https://github.com/alpaddesai/PCBDesignProcess/releases for details. 
 
