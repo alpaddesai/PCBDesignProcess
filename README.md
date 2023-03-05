@@ -8,8 +8,6 @@ Please download the executable in https://github.com/alpaddesai/PCBDesignProcess
 
 Images are custom. 
 
-![image](PCB1.png)
-
 ![image](EmbeddedHardwareImage.png)
 
 ### Allegro Editor
