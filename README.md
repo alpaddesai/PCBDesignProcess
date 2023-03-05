@@ -31,4 +31,4 @@ Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
-Further knowledge in https://github.com/alpaddesai/GraduateDegrees
+Further knowledge in https://github.com/alpaddesai/ArchitecturalProductDesign
